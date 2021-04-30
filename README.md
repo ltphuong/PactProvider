@@ -14,7 +14,9 @@ This source used to pull the contract from the Pact Broker and makes the request
 - Go to folder that store this souce code, open terminal and run "grade pactVerify"
 
 After verify contract, if result is correct, you will see column 'Last Verified' is green:
+
 ![image](https://user-images.githubusercontent.com/17809726/116720330-3fb0a900-aa06-11eb-97e9-929f4260cfa9.png)
 
 If result is fail, you will see column 'Last Verified' is pink
+
 ![image](https://user-images.githubusercontent.com/17809726/116721199-3ffd7400-aa07-11eb-96b0-90d73b93c717.png)
